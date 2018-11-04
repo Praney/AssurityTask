@@ -1,0 +1,10 @@
+*.cache
+*.pyc
+/build
+/dist
+build
+eggs/
+.eggs/
+*.egg-info/
+*.egg
+*.idea
