@@ -1,3 +1,4 @@
+# This file contains the contract of the API
 getApi={
    "definitions": {},
    "$schema": "http://json-schema.org/draft-07/schema#",
