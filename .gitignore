@@ -3,6 +3,7 @@
 /build
 /dist
 build
+/Reports
 eggs/
 .eggs/
 *.egg-info/
